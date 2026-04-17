@@ -1,3 +1,3 @@
 # NLP
 
-Implementations for NLP.haha
+Implementations for NLP.
